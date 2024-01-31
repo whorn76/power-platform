@@ -119,7 +119,7 @@ The [DLP policy](/power-platform/admin/wp-data-loss-prevention) applied to your 
 - [Approvals](/connectors/approvals/)
 - [Azure Resource Manager](/connectors/arm/)
 - HTTP
-- [HTTP with Microsoft Entra ID](/connectors/webcontents/)
+- [HTTP with Microsoft Entra ID (preauthorized)](/connectors/webcontents/)
 - [Microsoft Dataverse](/connectors/commondataserviceforapps/)
 - [Microsoft Dataverse (legacy)](/connectors/commondataservice/)
 - [Microsoft Teams](/connectors/teams/)
